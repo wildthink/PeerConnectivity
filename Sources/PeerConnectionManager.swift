@@ -6,7 +6,7 @@
 //  Copyright © 2015 Reid Chatham. All rights reserved.
 //
 
-import UIKit
+import MultipeerConnectivity
 
 /**
  The service type describing the channel over which connections are made.
